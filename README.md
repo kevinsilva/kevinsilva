@@ -1,7 +1,3 @@
-<h1 style="font-size: 32px; font-weight: bold; letter-spacing: 1rem">KEVIN</h1>
-
-<h1 style="font-size: 32px; font-weight: bold; letter-spacing: 1.1rem">SILVA</h1>
-
 ### Hey! ✌️
 
 As a junior front-end developer with a passion for design, I focus in clean code and usability. Always eager to learn and improve.
