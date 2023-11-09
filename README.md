@@ -1,6 +1,6 @@
 ### Hey! ✌️
 
-As a junior front-end developer with a passion for design, I focus in clean code and usability. Always eager to learn and improve.
+I am a junior front-end developer with a passion for design. I focus in clean code and usability; always eager to learn and improve.
 
 **`I am ready to embark on a new coding journey.`**
 
