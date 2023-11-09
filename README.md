@@ -1,14 +1,16 @@
-<span style="font-size: 2rem; font-weight: bold; letter-spacing: 1rem">KEVIN</span>
+<span style="font-size: 32px; font-weight: bold; letter-spacing: 1rem">KEVIN</span>
 
-<span style="font-size: 2rem; font-weight: bold; letter-spacing: 1.1rem">SILVA</span>
+<span style="font-size: 32px; font-weight: bold; letter-spacing: 1.1rem">SILVA</span>
 
 <br>
+
+# My Title
 
 ### Hey! ✌️
 
 As a junior front-end developer with a passion for design, I focus in clean code and usability. Always eager to learn and improve.
 
-#### About Me
+### About Me
 
 Born in the United States 🇺🇸 <br>
 Grew up and currently living in Portugal 🇵🇹 <br>
@@ -18,7 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/) 💬<br
 
 **`I am ready to embark on a new coding journey.`**
 
-#### Languages and Tools
+### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,11 +36,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/) 💬<br
 ![ESLint](https://img.shields.io/badge/ESLint-%23323330?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
+<br>
 
 <div style="display: flex; justify-content: space-between;  align-items: center;">
 
-[![Top Languages](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=kevinsilva&layout=compact&theme=merko&hide=html&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=kevinsilva&layout=donut&theme=merko&hide=html&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=2)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&redirect=true)
 
 </div>
