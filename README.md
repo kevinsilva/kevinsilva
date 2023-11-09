@@ -1,10 +1,6 @@
-<span style="font-size: 32px; font-weight: bold; letter-spacing: 1rem">KEVIN</span>
+<h1 style="font-size: 32px; font-weight: bold; letter-spacing: 1rem">KEVIN</h1>
 
-<span style="font-size: 32px; font-weight: bold; letter-spacing: 1.1rem">SILVA</span>
-
-<br>
-
-### :hammer_and_wrench: Languages and Tools :
+<h1 style="font-size: 32px; font-weight: bold; letter-spacing: 1.1rem">SILVA</h1>
 
 ### Hey! ✌️
 
@@ -35,13 +31,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/) 💬<br
 ![jQuery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%23323330?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-<br>
 
-<div style="display: flex; justify-content: space-between;  align-items: center;">
+<br>
 
 [![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=kevinsilva&layout=donut&theme=merko&hide=html&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&redirect=true)
-
-</div>
+&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=kevinsilva.j&redirect=true)
