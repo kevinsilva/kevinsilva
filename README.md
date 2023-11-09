@@ -14,19 +14,19 @@ I am a junior front-end developer with a passion for design. I focus in clean co
 
 ### Languages and Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23282C34.svg?style=for-the-badge&logo=html5&logoColor=%23FCCC42)
-![CSS3](https://img.shields.io/badge/css3-%23282C34.svg?style=for-the-badge&logo=css3&logoColor=%23FCCC42)
-![JavaScript](https://img.shields.io/badge/javascript-%23282C34.svg?style=for-the-badge&logo=javascript&logoColor=%23FCCC42)
-![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=%23FCCC42)
-![Git](https://img.shields.io/badge/git-%23282C34.svg?style=for-the-badge&logo=git&logoColor=%23FCCC42)
-![Vite](https://img.shields.io/badge/vite-%23282C34.svg?style=for-the-badge&logo=vite&logoColor=%23FCCC42)
-![Jest](https://img.shields.io/badge/jest-%23282C34.svg?style=for-the-badge&logo=jest&logoColor=%23FCCC42)<br>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23282C34.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23FCCC42)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23282C34.svg?style=for-the-badge&logo=bootstrap&logoColor=%23FCCC42)
-![SASS](https://img.shields.io/badge/SASS-%23282C34.svg?style=for-the-badge&logo=SASS&logoColor=%23FCCC42)
-![jQuery](https://img.shields.io/badge/jquery-%23282C34.svg?style=for-the-badge&logo=jquery&logoColor=%23FCCC42)
-![ESLint](https://img.shields.io/badge/ESLint-%23282C34?style=for-the-badge&logo=eslint&logoColor=%23FCCC42)
-![Figma](https://img.shields.io/badge/figma-%23282C34.svg?style=for-the-badge&logo=figma&logoColor=%23FCCC42)
+![HTML5](https://img.shields.io/badge/html5-%23282C34.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23282C34.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23282C34.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23282C34.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23282C34.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23282C34.svg?style=for-the-badge&logo=jest&logoColor=white)<br>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23282C34.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23282C34.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23282C34.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%23282C34.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%23282C34?style=for-the-badge&logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23282C34.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
