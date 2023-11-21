@@ -1,4 +1,4 @@
-### Hey! ✌️
+### Hey!
 
 I am a junior front-end developer with a passion for design. I focus on clean code and usability; always eager to learn and improve.
 
@@ -6,11 +6,11 @@ I am a junior front-end developer with a passion for design. I focus on clean co
 
 ### About Me
 
-- Born in the United States 🇺🇸 <br>
-- Grew up and currently living in Portugal 🇵🇹 <br>
-- I’m currently taking a web programming course and learning Typescript 📖<br>
-- In my free time I like to play guitar and read 🎸 <br>
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/) 💬<br>
+- Born in the United States.<br>
+- Grew up and currently living in Portugal.<br>
+- I’m currently taking a web programming course and learning Typescript.<br>
+- In my free time I like to play guitar and read.<br>
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/).<br>
 
 ### Languages and Tools
 
