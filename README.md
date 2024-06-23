@@ -8,7 +8,7 @@ I am a junior front-end developer with a passion for design. I focus on clean co
 
 - Born in the United States.<br>
 - Grew up and currently living in Portugal.<br>
-- I’m currently taking a web programming course and learning Typescript.<br>
+- I’m currently taking a full stack course.<br>
 - In my free time I like to play guitar and read.<br>
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinsilva-j/).<br>
 
@@ -34,4 +34,4 @@ I am a junior front-end developer with a passion for design. I focus on clean co
 
 <br> -->
 
-&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilva&layout=compact&theme=onedark&border_color=000)](https://github.com/anuraghazra/github-readme-stats)<br><br>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kevinsilva.j&cover_image=true&theme=compact&show_offline=false&background_color=193549&interchange=false&bar_color=e6e6e6&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kevinsilva.j&redirect=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilva&layout=compact&theme=onedark&border_color=000)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kevinsilva.j&cover_image=true&theme=compact&show_offline=false&background_color=193549&interchange=false&bar_color=e6e6e6&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kevinsilva.j&redirect=true)
