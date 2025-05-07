@@ -1,6 +1,6 @@
 ### Hey!
 
-**I’m a front-end developer passionate about design, code quality, and user experience.**
+**`I’m a front-end developer passionate about design, code quality, and user experience.`**
 
 ### About Me
 
